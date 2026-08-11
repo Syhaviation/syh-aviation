@@ -89,3 +89,7 @@ section ul {
     text-align: left;
     padding-left: 25px;
 }
+html,
+body {
+    background: #f4f7fa;
+}
