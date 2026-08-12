@@ -165,3 +165,18 @@ footer {
         padding: 15px;
     }
 }
+html,
+body {
+    margin: 0 !important;
+    padding: 0 !important;
+    background: #f4f7fa !important;
+    overflow-x: hidden;
+}
+
+main {
+    width: 100% !important;
+    margin: 0 !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    background: #f4f7fa !important;
+}
