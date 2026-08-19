@@ -180,3 +180,20 @@ main {
     padding-right: 0 !important;
     background: #f4f7fa !important;
 }
+/* SIMPLE BACK TO SIMONE BAR */
+
+body > p:first-of-type {
+    margin: 0;
+    padding: 12px 20px;
+    background: #003366;
+}
+
+body > p:first-of-type a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+body > p:first-of-type a:hover {
+    text-decoration: underline;
+}
